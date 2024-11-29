@@ -297,7 +297,6 @@ box-shadow: 11px 10px 65px -4px rgba(0,0,0,0.82);
 font-size: 44px;
 }
 
-/* Container principal para organizar os balões */
 .mensagens-container {
   display: flex;
   align-self: flex-start; 
